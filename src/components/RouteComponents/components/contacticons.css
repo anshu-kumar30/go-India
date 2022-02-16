@@ -1,0 +1,27 @@
+.iconcont{
+    
+    display: flex;
+    height: fit-content;
+    margin-left:20% ;
+    padding-bottom: 3%;
+    width: fit-content;
+    
+
+    
+}
+.iconcont .iconbox{
+    position: relative;
+    width: 250px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 10px;
+    border: 2px solid orangered;
+    padding: 1%;
+    background-color: orangered;
+}
+.iconcont .iconbox:hover{
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+}
+

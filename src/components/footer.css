@@ -1,0 +1,17 @@
+.footcontainer{
+    width: 100%;
+    height: fit-content;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-top: 2px solid black;
+    padding-right: 1%;
+    color: white;
+    background-color: black;
+    
+}
+.footcontainer h2{
+    font-weight: bold;
+    text-align: right;
+    padding-right: 1%;
+
+}
